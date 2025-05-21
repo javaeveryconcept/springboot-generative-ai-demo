@@ -10,10 +10,10 @@ We’ll connect **OpenAI**, **DeepSeek**, and **Gemini APIs** with just a few li
 ## 🎥 Watch the Full Tutorial
 
 ### 🔵 English Version
-[![Watch in English](https://img.youtube.com/vi/ENGLISH_VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=4vtd7UfJlA0)
+[![Watch in English](https://img.youtube.com/vi/4vtd7UfJlA0/maxresdefault.jpg)](https://www.youtube.com/watch?v=4vtd7UfJlA0)
 
 ### 🔴 Hindi Version
-[![Watch in Hindi](https://img.youtube.com/vi/HINDI_VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=5jOLIYsH340&t=7s)
+[![Watch in Hindi](https://img.youtube.com/vi/5jOLIYsH340/maxresdefault.jpg)](https://www.youtube.com/watch?v=5jOLIYsH340)
 
 
 ## 🚀 Features
