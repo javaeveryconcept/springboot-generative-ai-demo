@@ -7,7 +7,7 @@ Then today’s project is just for you!
 We’ll connect **OpenAI**, **DeepSeek**, and **Gemini APIs** with just a few lines of code and power up your app with the strength of **Generative AI**.
 
 ---
-## 🎥 Watch the Full Tutorial
+## 🎥 Watch the Full Tutorial 
 
 ### 🔵 English Version
 [![Watch in English](https://img.youtube.com/vi/4vtd7UfJlA0/maxresdefault.jpg)](https://www.youtube.com/watch?v=4vtd7UfJlA0)
